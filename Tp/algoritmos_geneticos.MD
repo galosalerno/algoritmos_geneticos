@@ -32,6 +32,20 @@ El funcionamiento de un algoritmo genético puede dividirse en los siguientes pa
 5. Reemplazo: Se reemplaza la población actual con la nueva generación de individuos.
 6. Convergencia: Se repiten los pasos 2-5 hasta que se alcance un criterio de parada.
 
+## Areas de aplicación
+
+1. Optimización: Los algoritmos genéticos se utilizan para resolver problemas de optimización en diversas áreas, como la ingeniería, la logística, la planificación de rutas, la asignación de recursos y la programación.
+
+2. Aprendizaje automático: Los algoritmos genéticos pueden utilizarse para optimizar los parámetros y la estructura de modelos de aprendizaje automático, como redes neuronales, para mejorar su rendimiento en tareas específicas.
+
+3. Diseño de productos y procesos: Los algoritmos genéticos se aplican en la optimización de diseños de productos y procesos industriales, como el diseño de aerodinámica de vehículos, la generación de circuitos electrónicos, el diseño de fármacos y la ingeniería de materiales.
+
+4. Economía y finanzas: Los algoritmos genéticos se utilizan en la optimización de carteras de inversión, el diseño de estrategias de trading, la predicción de precios y la modelización económica.
+
+5. Bioinformática y genómica: Los algoritmos genéticos se emplean en el análisis de secuencias genéticas, la identificación de patrones en datos biológicos, la predicción de estructuras proteicas y la inferencia filogenética.
+
+6. Robótica y control: Los algoritmos genéticos pueden utilizarse en el diseño y optimización de controladores para robots, la planificación de movimientos, la navegación y la coordinación de múltiples agentes.
+
 ## Relación con la lógica
 Los algoritmos genéticos se relacionan con la lógica de varias formas:
 
