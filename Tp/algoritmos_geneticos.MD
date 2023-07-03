@@ -35,9 +35,10 @@ El funcionamiento de un algoritmo genético puede dividirse en los siguientes pa
 ## Relación con la lógica
 Los algoritmos genéticos se relacionan con la lógica de varias formas:
 
-- Los operadores genéticos (recombinación y mutación) se basan en principios lógicos para crear nuevas soluciones a partir de las existentes.
-- La función de evaluación utiliza la lógica para medir la aptitud de cada individuo y determinar qué soluciones son más prometedoras.
-- El proceso de selección está inspirado en la selección natural, que es un fenómeno basado en la supervivencia del más apto, un principio lógico fundamental.
+- Los operadores genéticos (recombinación y mutación) se basan en principios lógicos para crear nuevas soluciones a partir de las existentes.La recombinación utiliza lógica para combinar información genética de dos individuos y crear nuevos individuos con características heredadas de ambos. La mutación introduce cambios aleatorios en los cromosomas, brindando diversidad genética al sistema y evitando la estancamiento en una solución subóptima.
+- Esta función utiliza principios lógicos y reglas definidas por el problema para asignar un valor numérico que representa qué tan bueno es el individuo en términos de alcanzar los objetivos deseados. La lógica se utiliza para establecer los criterios de evaluación y determinar qué características o propiedades deben tener los individuos para ser considerados aptos.
+- El proceso de selección está inspirado en la selección natural, que es un fenómeno basado en la supervivencia del más apto, un principio lógico fundamental.Este proceso utiliza lógica para identificar y elegir a los individuos más aptos según su aptitud determinada por la función de evaluación. Hay diferentes estrategias de selección, como la selección por torneo, la ruleta o la clasificación lineal, que se basan en lógica y probabilidades para determinar qué individuos tienen más posibilidades de ser seleccionados.
+- Criterio de parada: El criterio de parada en un algoritmo genético determina cuándo se detiene la ejecución del algoritmo. Puede ser una solución óptima encontrada, un número máximo de generaciones alcanzadas, un límite de tiempo o cualquier otra condición definida por el problema. La lógica se aplica para verificar si se cumple el criterio de parada y finalizar la ejecución del algoritmo.
 
 | Ventajas                                                | Desventajas                                                     |
 |---------------------------------------------------------|-----------------------------------------------------------------|
